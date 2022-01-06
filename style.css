@@ -111,6 +111,18 @@ span{
 .single-develop1{
     width: 60%;
 }
+.develop-img,.single-community{
+    position: relative;
+}
+.logo-img,.logo-img1{
+    position: absolute;
+    content: '';
+    top: 100px;
+    left: -84px;
+    width: 400px;
+    z-index: -1;
+
+}
 
 .develop-img img{
     width: 85%;
@@ -135,6 +147,10 @@ span{
     width: 70%;
     height: 78%;
 
+}
+.logo-img1{
+    top: 54%;
+    left: 53%;
 }
 .single-community h1{
     font-size: 45px;
