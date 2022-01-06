@@ -152,7 +152,15 @@ span{
     margin-left: 50px;
     margin-bottom: 20px;
 }
+.single-developer img ,.single-developer{
+    width: 50%;
+    margin-left: 50px;
+    
+}
 .single-developer img{
+    width: 90%;
+    height: 500px;
+}{
     width: 90%;
     height: 500px;
 }
