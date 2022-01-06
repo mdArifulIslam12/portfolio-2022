@@ -8,7 +8,7 @@ section{
     /* margin-top: 60px; */
     margin-left: 50px;
 }
-.focused-mission,.develop-section,.community{
+.focused-mission,.develop-section,.community ,.fullstack-section{
     display: flex;
 }
 .half-width{
@@ -147,8 +147,18 @@ span{
     padding-right: 90px;
     line-height: 30px;
 }
-
-
+.single-developer{
+    width: 50%;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.single-developer img{
+    width: 90%;
+    height: 500px;
+}
+.fullstack{
+    color: #fab004;
+}
 .footer {
     text-align: center;
     background-color: #000;
