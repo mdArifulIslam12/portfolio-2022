@@ -147,25 +147,20 @@ span{
     padding-right: 90px;
     line-height: 30px;
 }
-.single-developer{
+.single-developer,.single-developer1{
     width: 50%;
     margin-left: 50px;
     margin-bottom: 20px;
 }
-.single-developer img ,.single-developer{
-    width: 50%;
-    margin-left: 50px;
-    
-}
-.single-developer img{
-    width: 90%;
-    height: 500px;
-}{
+.single-developer img ,.single-developer1 img{
     width: 90%;
     height: 500px;
 }
 .fullstack{
     color: #fab004;
+}
+.single-developer1{
+    margin-left: 0;
 }
 .footer {
     text-align: center;
